@@ -293,6 +293,9 @@ Apache-2.0
  
 
 
+seedrandom
+MIT
+
 simple-keyboard
 MIT
 MIT License
