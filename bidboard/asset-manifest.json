@@ -1,17 +1,14 @@
 {
   "files": {
-    "main.css": "/bidboard/static/css/main.7591e19f.css",
-    "main.js": "/bidboard/static/js/main.d64671ba.js",
-    "static/js/787.a71850b5.chunk.js": "/bidboard/static/js/787.a71850b5.chunk.js",
+    "main.css": "/bidboard/static/css/main.327b4746.css",
+    "main.js": "/bidboard/static/js/main.2726b7f4.js",
+    "static/js/27.9397b450.chunk.js": "/bidboard/static/js/27.9397b450.chunk.js",
     "static/media/bootstrap-icons.woff?": "/bidboard/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "/bidboard/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
-    "index.html": "/bidboard/index.html",
-    "main.7591e19f.css.map": "/bidboard/static/css/main.7591e19f.css.map",
-    "main.d64671ba.js.map": "/bidboard/static/js/main.d64671ba.js.map",
-    "787.a71850b5.chunk.js.map": "/bidboard/static/js/787.a71850b5.chunk.js.map"
+    "index.html": "/bidboard/index.html"
   },
   "entrypoints": [
-    "static/css/main.7591e19f.css",
-    "static/js/main.d64671ba.js"
+    "static/css/main.327b4746.css",
+    "static/js/main.2726b7f4.js"
   ]
 }
