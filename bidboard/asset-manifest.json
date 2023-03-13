@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bidboard/static/css/main.ded748c6.css",
-    "main.js": "/bidboard/static/js/main.65b6ceeb.js",
+    "main.css": "/bidboard/static/css/main.331113a8.css",
+    "main.js": "/bidboard/static/js/main.a3b769a5.js",
     "static/js/27.9397b450.chunk.js": "/bidboard/static/js/27.9397b450.chunk.js",
     "static/media/bootstrap-icons.woff?": "/bidboard/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "/bidboard/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
     "index.html": "/bidboard/index.html"
   },
   "entrypoints": [
-    "static/css/main.ded748c6.css",
-    "static/js/main.65b6ceeb.js"
+    "static/css/main.331113a8.css",
+    "static/js/main.a3b769a5.js"
   ]
 }
