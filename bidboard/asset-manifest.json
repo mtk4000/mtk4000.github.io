@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bidboard/static/css/main.331113a8.css",
-    "main.js": "/bidboard/static/js/main.28e50de2.js",
+    "main.js": "/bidboard/static/js/main.e0f4d5e2.js",
     "static/js/27.9397b450.chunk.js": "/bidboard/static/js/27.9397b450.chunk.js",
     "static/media/bootstrap-icons.woff?": "/bidboard/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "/bidboard/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
@@ -9,6 +9,6 @@
   },
   "entrypoints": [
     "static/css/main.331113a8.css",
-    "static/js/main.28e50de2.js"
+    "static/js/main.e0f4d5e2.js"
   ]
 }
