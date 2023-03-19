@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bidboard/static/css/main.029ffd6c.css",
-    "main.js": "/bidboard/static/js/main.249fd9fd.js",
+    "main.js": "/bidboard/static/js/main.573a1093.js",
     "static/js/677.edb49697.chunk.js": "/bidboard/static/js/677.edb49697.chunk.js",
     "static/js/861.1e8b491b.chunk.js": "/bidboard/static/js/861.1e8b491b.chunk.js",
     "static/js/883.d4e8cd80.chunk.js": "/bidboard/static/js/883.d4e8cd80.chunk.js",
@@ -19,6 +19,6 @@
   },
   "entrypoints": [
     "static/css/main.029ffd6c.css",
-    "static/js/main.249fd9fd.js"
+    "static/js/main.573a1093.js"
   ]
 }
