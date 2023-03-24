@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.806e0258.css",
-    "main.js": "./static/js/main.6b90119c.js",
+    "main.css": "./static/css/main.f4399e6b.css",
+    "main.js": "./static/js/main.9ba9d5df.js",
     "static/js/677.edb49697.chunk.js": "./static/js/677.edb49697.chunk.js",
     "static/js/861.1e8b491b.chunk.js": "./static/js/861.1e8b491b.chunk.js",
     "static/js/883.d4e8cd80.chunk.js": "./static/js/883.d4e8cd80.chunk.js",
@@ -11,14 +11,14 @@
     "static/js/316.eb9e8856.chunk.js": "./static/js/316.eb9e8856.chunk.js",
     "static/js/96.0154e331.chunk.js": "./static/js/96.0154e331.chunk.js",
     "static/js/192.5748fdf0.chunk.js": "./static/js/192.5748fdf0.chunk.js",
-    "static/js/708.8f8e5a9c.chunk.js": "./static/js/708.8f8e5a9c.chunk.js",
+    "static/js/708.5e67b6f0.chunk.js": "./static/js/708.5e67b6f0.chunk.js",
     "static/media/bootstrap-icons.woff?": "./static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "./static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
     "static/media/hamster.svg": "./static/media/hamster.4d73a57b268b33fc5f2a7b7147ebd157.svg",
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.806e0258.css",
-    "static/js/main.6b90119c.js"
+    "static/css/main.f4399e6b.css",
+    "static/js/main.9ba9d5df.js"
   ]
 }
